@@ -1,5 +1,5 @@
 {
   "version": "1.3.0",
-  "notes": "Bug fixes and improvements",
-  "apk_url": "https://github.com/Emran1873/Void-Stream-Updates/releases/download/v1.3.0/voidstream.apk"
+  "notes": "-Added background download for updates\n -Fixed version mismatch"
+  "apk_url": "https://github.com/Emran1873/Void-Stream-Updates/releases/download/v1.3.2/voidstream.apk"
 }
