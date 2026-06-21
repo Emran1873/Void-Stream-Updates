@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notes": "Added background download for updates & Fixed version mismatch"
-  "apk_url": "https://github.com/Emran1873/Void-Stream-Updates/releases/download/v1.3.2/voidstream.apk"
+  "version": "1.6.2",
+  "notes": "Added reviews, country filter, clickable genres, actor filmography and more",
+  "apk_url": "https://github.com/Emran1873/Void-Stream-Updates/releases/download/v1.6.2/voidstream.apk"
 }
